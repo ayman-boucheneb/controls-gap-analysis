@@ -43,7 +43,7 @@
     - Data stored or transmitted is protected from unauthorised access or modification.
     - Authorised users access data only necessary for their operations 
 - System Security: Critical systems are protected with strong security, guided by the organisation’s risk understanding to reduce opportunities for attacks.
-- Resilient Networks and Systems: 
+- Resilient Networks and Systems: Resilience against cyberattacks and system failures is built into system design, operation, and management.
 - Staff awareness and training: Staff are trained & know how to perform their organisational roles effectively in relation to data & network systems.
 
 
