@@ -15,7 +15,7 @@ This project is an **audit & assurance task**. It's a gap analysis project of th
 
 ## File & Folder Structure
 - `README.md`: Serves as an introduction to the project. Explains the purpose, aim and structure of the project.
-- `/report`: folder containing work documents and outputs or scope and gap analysis
+- `/report`: folder containing documents of the gap analysis
     - `gap-analysis.docx` - word document format of the report
     - `gap-analysis-final.pdf` - Polished edition of the report. Summary of the scope, control analysis, findings and the recommendations of security practices.
 - `/matrix`: folder that contains file of the matrix table
