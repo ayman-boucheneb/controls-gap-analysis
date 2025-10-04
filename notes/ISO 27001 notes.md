@@ -74,3 +74,8 @@ Continuously improve the ISMS to adapt to new risks and lessons learned.
 ## Principles:
 1. Corrective Actions: Fix nonconformities and prevent recurrence.  
 2. Continual Improvement: Regularly enhance ISMS effectiveness and suitability.  
+
+
+# Reference:
+- ISMS.online. (2022). ISO 27001:2022 Requirements & Clauses | ISMS.online. [online] Available at: https://www.isms.online/iso-27001/requirements-2022/ [Accessed 26 Sep. 2025].
+- ISMS.online. (2022). ISO 27001:2022 Annex A Explained & Simplified - ISMS.online. [online] Available at: https://www.isms.online/iso-27001/annex-a-2022/ [Accessed 29 Sep. 2025].

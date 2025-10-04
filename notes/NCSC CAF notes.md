@@ -64,3 +64,9 @@
 ## Principles:
 - Response and Recovery Planning: Clear plans to keep services running, with backups to limit damage.
 - Lessons Learned: Steps are taken to understand an incident’s causes and sure action is taken to protect against future incidents.
+
+
+
+
+# Reference:
+NCSC (2024). Introduction to the Cyber Assessment Framework. [online] www.ncsc.gov.uk. Available at: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-to-caf [Accessed 24. Sep 2025].
